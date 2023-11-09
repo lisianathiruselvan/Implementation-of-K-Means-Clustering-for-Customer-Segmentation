@@ -87,7 +87,7 @@ plt.title("Customer Segments")
 ## NULL VALUES:
 ![image](https://github.com/lisianathiruselvan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119389971/619af637-1984-4b86-ac02-6fec79d96a98)
 
-
+<br>
 
 ## ELBOW GRAPH:
 ![image](https://github.com/lisianathiruselvan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119389971/2a8e6709-389a-4e22-bf29-ff0ae8d640d6)
