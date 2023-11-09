@@ -109,6 +109,7 @@ plt.title("Customer Segments")
 <br>
 <br>
 <br>
+<br>
 
 ## FINAL GRAPH(D/O):
 ![image](https://github.com/lisianathiruselvan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119389971/ba759730-129b-4022-a064-4133acedca37)
