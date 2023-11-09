@@ -106,6 +106,9 @@ plt.title("Customer Segments")
 ## PREDICICTED VALUE:
 ![image](https://github.com/lisianathiruselvan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119389971/a0ef4355-0258-45ba-961f-d345a2fc44c1)
 
+<br>
+<br>
+<br>
 
 ## FINAL GRAPH(D/O):
 ![image](https://github.com/lisianathiruselvan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119389971/ba759730-129b-4022-a064-4133acedca37)
